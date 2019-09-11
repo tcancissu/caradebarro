@@ -1,3 +1,6 @@
+
+![IMAGE](https://imagens.tiespecialistas.com.br/2015/02/git.jpg)
+
 TITULO
 ======
 
@@ -18,7 +21,7 @@ Texto **negrito**, _italico_ e ~~riscado~~
 1. Lista Num 1
 2. Lista Num 2
 
-* [] Não marcado
+* [ ] Não marcado
 * [x] Marcado
 
 Tabela
