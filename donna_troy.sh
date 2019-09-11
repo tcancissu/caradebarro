@@ -7,5 +7,3 @@ do
 	sleep 1;
 	clear;
 done
-
-figlet LINUXLOGO
